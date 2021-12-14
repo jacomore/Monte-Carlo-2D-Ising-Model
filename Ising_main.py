@@ -47,7 +47,7 @@ system = IsingSystem_2D(size = N,
 # Task1: showing the increase of statistical noise when approaching the critic temperature 
 
 print("Executing task 1...")
-print("Showing the increase of statistical noise when approaching the critic temperature")
+print("Showing the increase of statistical noise when approaching the critical temperature")
 
 # T_list contains the temperature for which the magnetization is calculated
 T_list = [1,1.5,2,2.5,3,4]
